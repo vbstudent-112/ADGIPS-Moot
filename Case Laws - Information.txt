@@ -1,0 +1,57 @@
+﻿Indian Case Laws: Petitioner
+1. Christian Louboutin v. Nakul Bajaj
+Explanatory Paragraph
+It is submitted that intermediary protection under Section 79 is unavailable where the platform plays an active role in facilitating or shaping unlawful content, thereby losing its status as a neutral conduit. In Christian Louboutin v. Nakul Bajaj, the Hon’ble Delhi High Court held that safe harbour cannot be extended to entities that are not merely passive intermediaries but are “active participants” in the underlying unlawful activity. The Court emphasized that intermediary status requires the platform to remain technical, automatic, and passive, without exercising control or influence over the content. This principle directly applies to the present case, where DeepSearch, through its generative architecture and Personality Model, does not merely host or transmit content but actively creates and structures synthetic outputs, including identity-based deepfakes. Such transformation of user input into new expressive content demonstrates a level of control and participation that is incompatible with the passive role required under Section 79. Therefore, DeepSearch cannot claim safe harbour and must be treated as a content creator/publisher, attracting full liability.
+Key Extracts (Use in Memorial)
+    • “Section 79… cannot be abused by extending such protection to those persons who were not intermediaries and were active participants in unlawful Act.” 
+    • Intermediary must be “technical, automatic and passive… without knowledge or control.” 
+    • Platforms that play an active role in facilitating transactions/content lose immunity 
+International Case Laws: Petitioner
+L'Oréal SA v. eBay
+Explanatory Paragraph
+It is submitted that an intermediary loses immunity where it plays an active role in promoting, optimizing, or facilitating access to infringing content, even if it does not directly sell or possess the goods. In L’Oréal v. eBay, the Court examined whether eBay could be held liable for trademark infringement committed by its users and recognized that the platform’s conduct went beyond mere passive hosting. Notably, eBay engaged in keyword advertising using trademarked terms, structured search results, and facilitated visibility of infringing goods through algorithmic and commercial tools. The Court highlighted that such conduct may amount to use of the trademark in relation to infringing goods, thereby attracting primary liability. Further, the scale of operations, the existence of filtering systems, and the platform’s knowledge of recurring infringement indicated that the intermediary was not merely a neutral conduit but an economically engaged actor benefiting from and enabling unlawful activity. This principle directly applies to the present case, where DeepSearch similarly structures and generates outputs through its AI architecture, and potentially facilitates the dissemination of unlawful content at scale. The active involvement in content generation and optimization, combined with foreseeable misuse, places DeepSearch outside the scope of passive intermediary protection and makes it liable for facilitating infringement.
+Key Extracts (Use in Memorial)
+    • Core issue framing:
+“Are eBay Europe liable for trade mark infringements committed by their users?” 
+    • On platform involvement beyond neutrality: 
+        ◦ eBay operates as an “online marketplace” enabling listings and transactions 
+        ◦ Listings are structured, categorized, and made searchable through platform tools 
+    • On keyword advertising / trademark use: 
+        ◦ eBay purchased keywords consisting of trade marks to trigger sponsored links 
+        ◦ Clicking such links leads users directly to listings involving those marks 
+    • On scale + facilitation: 
+        ◦ “More than 125 million active listings… millions added daily” 
+        ◦ Platform provides tools to: 
+            ▪ optimise listings 
+            ▪ promote visibility 
+            ▪ increase sales 
+    • On knowledge of infringement environment: 
+        ◦ eBay was aware that certain categories (e.g., cosmetics, luxury goods) were prone to infringement
+
+Indian Case Laws: Respondent
+2. MySpace Inc. v. Super Cassettes Industries Ltd.
+Explanatory Paragraph
+It is submitted that intermediary liability arises only upon specific and actual knowledge of infringing content, and that the law does not impose a general obligation to monitor or pre-screen user-generated content. In MySpace v. Super Cassettes, the Hon’ble Delhi High Court held that “actual knowledge and not mere suspicion is essential to fasten liability,” thereby establishing that intermediaries are required to act only when specific infringing content is identified and brought to their notice. The Court further rejected the imposition of broad filtering or monitoring obligations, noting that such requirements would result in impermissible “private censorship.” This principle strongly supports the Respondent’s case that DeepSearch cannot be held liable merely because its system is capable of generating unlawful outputs. In the absence of specific notice identifying the impugned content, there is no obligation on the platform to act. However, the Petitioner may rely on this case in a limited manner to argue that once such specific knowledge is established and the intermediary fails to act, safe harbour protection is lost.
+Key Extracts (Use in Memorial)
+    • “Actual knowledge and not mere suspicion is essential to fasten liability.” 
+    • “Providing long lists… would result in private censorship.” 
+    • Obligation arises only when specific infringing content is identified 
+    • Intermediary must act within prescribed time after notice 
+3. Google LLC v. Visaka Industries
+Explanatory Paragraph
+It is submitted that intermediaries cannot be treated as publishers of third-party content and are liable only upon failure to act after receiving legally recognized actual knowledge. In the Google case, the Court clearly distinguished between the originator of content and the intermediary, observing that there was “no case… that the Appellant is the author or publisher” of the impugned material. The Court further clarified that “actual knowledge” must arise through a court order or appropriate government notification, thereby protecting intermediaries from liability based on informal or generalized complaints. Additionally, the Court cautioned against imposing proactive monitoring obligations, noting that such expectations would convert intermediaries into “private censors.” This principle is directly applicable to DeepSearch, which operates as a technological platform responding to user prompts and does not independently originate content. In the absence of formal notice and demonstrable authorship or control, DeepSearch retains its intermediary protection and cannot be held liable for user-generated outputs.
+Key Extracts (Use in Memorial)
+    • “There is no case… that the Appellant is the author or publisher…” 
+    • “Actual knowledge must be… through a court order or Government agency.” 
+    • Intermediaries cannot be turned into private censors 
+    • Liability arises only upon failure to act after knowledge 
+4. Kent RO Systems Ltd. v. Amit Kotak
+Explanatory Paragraph
+It is submitted that the law does not impose any obligation on intermediaries to proactively monitor, screen, or prevent the hosting of potentially unlawful content, and that liability arises only upon specific notice and demonstrable intent or participation. In Kent RO Systems Ltd. v. Amit Kotak, the Hon’ble Delhi High Court held that the IT Rules “do not oblige the intermediary to… screen all information being hosted,” and that imposing such a duty would effectively convert the intermediary into a body responsible for adjudicating complex legal questions. The Court further recognized that content hosting occurs “automatically, without human intervention,” and that requiring prior screening would “bring the business… to a halt.” Additionally, the Court clarified that liability under Section 79(3) arises only in cases of conspiracy, abetment, or aiding, which require proof of common intention and active participation. This principle strongly supports the Respondent’s position that DeepSearch, as an automated generative system, cannot be expected to pre-emptively evaluate or restrict all possible outputs, and in the absence of intentional facilitation or failure to act upon notice, safe harbour protection remains intact.
+Key Extracts (Use in Memorial)
+    • “IT Rules… do not oblige the intermediary to… screen all information…” 
+    • “Would amount to converting the intermediary into a body to determine whether there is any infringement.” 
+    • Hosting is “automatic, without human intervention.” 
+    • Screening would “bring the business… to a halt.” 
+    • Liability requires “conspiracy, abetment, aiding… proof of common intention.”
+
